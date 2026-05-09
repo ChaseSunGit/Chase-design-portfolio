@@ -1,0 +1,13 @@
+title: "Hardware & Design Portfolio"
+name: "Your Name"
+description: "CAD, Electrical Design, and Robotics Control"
+url: "https://yourusername.github.io" # Replace with your actual URL
+
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "default" # Other options: 'dark', 'contrast', 'air'
+
+# Plugins required by GitHub Pages for this theme
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
