@@ -1,7 +1,7 @@
 title: "Chase's Engineering Portfolio"
 name: "Chase Sun"
 description: "CAD, Electrical Design, and Robotics Control"
-url: "https://ChaseSunGit.github.io" # Replace with your actual URL
+url: "https://ChaseSunGit.github.io"
 
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes"
