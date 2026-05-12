@@ -3,7 +3,7 @@ layout: single
 title: "NRC Phantom II"
 description: "An ultra high-precision, light weight, UAV mounted laser absorption spectroscopy methane sensor"
 header:
-  teaser: "/assets/images/PhantomII/PTII_CAD_ISO.png"
+  teaser: "/assets/images/PhantomII/NRC_Teaser.jpg"
 categories:
   - Electrical Design
   - Optical Design
